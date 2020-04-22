@@ -1,7 +1,6 @@
 # Dang Lam Phan
-## Web Developer
 
-Email: [pdlam.uit@gmail.com](pdlam.uit@gmail.com)
+Email: [pdlam.uit@gmail.com](pdlam.uit@gmail.com)  
 Phone: (+84) 328 705 454  
 Url: [https://dlphan.github.io](https://dlphan.github.io)
 
@@ -9,10 +8,10 @@ Url: [https://dlphan.github.io](https://dlphan.github.io)
 
 ### EDUCATION
 
-University of Information Technology.  
+__University of Information Technology.__  
 Major: Computer Science.
 
--------
+------
 
 ### TECHNICAL SKILLS
 
@@ -27,8 +26,8 @@ Major: Computer Science.
 ------
 
 ### EXPERIENCE
-Acexis JSC
-__01/2020 - 06/2020__  
+__Acexis JSC
+( 01/2020 - 06/2020 )__  
 *Position: Web developer intern*  
 Use ReactJS, NestJS, MongoDB, Apollo on the company's projects.
 
@@ -36,8 +35,8 @@ Use ReactJS, NestJS, MongoDB, Apollo on the company's projects.
 
 ### ACTIVITIES
 
-Volunteer program of SEEDS.
-__05/2018__  
+__Volunteer program of SEEDS.
+( 05/2018 )__  
 *Position: Volunteer*  
 Give gifts and support changing new electric bulb to poor families in Long An.
 
@@ -45,8 +44,8 @@ Give gifts and support changing new electric bulb to poor families in Long An.
 
 ### HONORS/ACHIEVEMEN
 
-SEEDS Scholarship - Pacific Links Foundation (PALS).
-__05/2018__
+__SEEDS Scholarship - Pacific Links Foundation (PALS).
+( 05/2018 )__  
 
 ------
 
