@@ -2,15 +2,15 @@
 ## Web Developer
 
 > [Download PDF](PhanDanLam_CV.pdf)  
-> Email: [pdlam.uit@gmail.com](pdlam.uit@gmail.com)  
-> Phone: (+84) 328 705 454
+> Email: [pdlam.uit@gmail.com](pdlam.uit@gmail.com)
+> Phone: (+84) 328 705 454  
 > Url: [https://dlphan.github.io](https://dlphan.github.io)
 
 ------
 
 ### EDUCATION {#education}
 
-University of Information Technology.
+University of Information Technology.  
 Major: Computer Science.
 
 -------
@@ -30,18 +30,18 @@ Major: Computer Science.
 ### EXPERIENCE {#experience}
 
 Acexis JSC
-: *Position: Web developer intern*
-  __01/2020 - 06/2020__
-  Use ReactJS, NestJS, MongoDB, Apollo on the company's projects.
+__01/2020 - 06/2020__  
+*Position: Web developer intern*  
+Use ReactJS, NestJS, MongoDB, Apollo on the company's projects.
 
 ------
 
 ### ACTIVITIES {#activities}
 
 Volunteer program of SEEDS.
-: *Position: Volunteer*
-  __05/2018__
-  Give gifts and support changing new electric bulb to poor families in Long An.
+__05/2018__  
+*Position: Volunteer*  
+Give gifts and support changing new electric bulb to poor families in Long An.
 
 ------
 
