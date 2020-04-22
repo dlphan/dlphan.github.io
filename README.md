@@ -1,8 +1,8 @@
 # Dang Lam Phan
 
 Email: [pdlam.uit@gmail.com](pdlam.uit@gmail.com)  
+Url: [https://dlphan.github.io](https://dlphan.github.io)  
 Phone: (+84) 328 705 454  
-Url: [https://dlphan.github.io](https://dlphan.github.io)
 
 ------
 
